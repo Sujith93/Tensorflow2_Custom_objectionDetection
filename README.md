@@ -10,3 +10,4 @@ Below are the file details mentioned and also the follow
 5. confusion_martix_object_detection.py - Generate confusion matrix also precision and recall
 6. labels_dict.txt - Supporting file for confusion_martix_object_detection 
 7. bentoml_creation.ipynb - Creating a restapi and also docker image using "BentomL"
+8. image_preprocess.py - Processing the images
